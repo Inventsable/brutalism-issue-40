@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionList>
+    <Extension Id="com.brutalism-issue-40.panel">
+        <HostList>
+            <Host Name="ILST" Port="4950" />
+            <Host Name="AEFT" Port="4951" />
+            <Host Name="PHXS" Port="4952" />
+            <Host Name="PPRO" Port="4953" />
+            <Host Name="IDSN" Port="4954" />
+            <Host Name="AUDT" Port="4955" />
+            <Host Name="FLPR" Port="4956" />
+        </HostList>
+    </Extension>
+</ExtensionList>
